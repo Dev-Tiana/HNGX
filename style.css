@@ -2,6 +2,7 @@ body {
     font-size: 15pt;
     background-color: black;
     color: #fff;
+    text-align: center;
 }
 *{
   margin: 0;
